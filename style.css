@@ -34,7 +34,7 @@ html,body{
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-attachment: normal;
+    background-attachment: scroll;
     /* fixed:parallex
     scroll:normal */
 
